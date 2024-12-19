@@ -24,8 +24,6 @@
 
 - **Frontend**: HTML, CSS, Bootstrap
 - **Backend**: PHP, MySQL
-- **Mobile App**: Flutter
 - **Database**: MySQL for efficient data storage and retrieval
-- **Libraries & Frameworks**: CodeIgniter (MVC architecture), Chart.js for graphs
 
 ---
