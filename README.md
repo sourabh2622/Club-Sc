@@ -29,15 +29,3 @@
 - **Libraries & Frameworks**: CodeIgniter (MVC architecture), Chart.js for graphs
 
 ---
-
-## 📦 Installation
-
-### Prerequisites
-1. [XAMPP](https://www.apachefriends.org/) or similar local server setup.
-2. PHP 7.4 or higher.
-3. MySQL.
-
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/clubsc.git
